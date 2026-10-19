@@ -1,4 +1,4 @@
 # Vibe coding experiments
 
-- [Web coding agent design](projects/web-coding-agent/DESIGN.md)
-- [Technical foundations: start here](docs/README.md)
+- [Web coding agent design](web-coding-agent/DESIGN.md)
+- [Technical foundations: start here](web-coding-agent/docs/README.md)

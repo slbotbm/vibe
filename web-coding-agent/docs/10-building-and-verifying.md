@@ -92,4 +92,4 @@ distinction in the UI.
 handling,” and “Open questions” become the implementation acceptance criteria.
 
 Keep the [glossary](glossary.md) open while rereading the
-[full design](../projects/web-coding-agent/DESIGN.md).
+[full design](../DESIGN.md).

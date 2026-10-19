@@ -5,7 +5,7 @@ agents. It explains what each part does, why the proposed agent needs it, and
 how the parts fit together. You do not need to learn to write WebAssembly by
 hand to build this application.
 
-The [technical design](../projects/web-coding-agent/DESIGN.md) describes a
+The [technical design](../DESIGN.md) describes a
 **proposed architecture**, not an implemented application. These chapters teach
 that architecture; their examples are illustrative, not a working SDK or a
 promise that the integrations already work. Upstream documentation was checked
